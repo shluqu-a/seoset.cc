@@ -206,6 +206,21 @@ input[type=number] {
     color: #000;
 }
 
+u {
+    background-color: var(--xoxo-mc1);
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 900;
+    font-family: var(--hff);
+    border: 2px solid #000;
+    margin: -4px;
+    margin-left: 0;
+}
+
 textarea {
     width: 100%;
     max-width: 100%;
