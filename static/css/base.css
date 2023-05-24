@@ -575,20 +575,13 @@ table {
 
 body code,
 body pre {
-    border-left: 4px solid #000;
-    font-style: italic;
-    margin: 10px 0px 30px 0px;
     line-height: 1.7;
     color: #000;
-    -webkit-box-sizing: border-box;
     box-sizing: border-box;
     font-size: 20px;
-    max-width: 100%;
     display: inline-block;
     overflow-x: visible;
-    padding: 4px 4px 4px 10px;
-    white-space: pre-wrap;
-    -ms-word-wrap: break-word;
+    white-space: pre-line;
     word-wrap: break-word;
     background-color: rgba(0, 0, 0, .02);
 }
