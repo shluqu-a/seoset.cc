@@ -508,16 +508,16 @@ hr {
 }
 
 body blockquote {
-    border-left: 4px solid #f56565;
+    border-left: 4px solid #161616;
     margin: 10px 0px 23px 0px;
     clear: both;
     max-width: 100%;
     background-color: transparent;
     line-height: 1.7;
-    color: #f56565;
+    color: #000000;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    font-size: 20px;
+    font-size: 18px;
     padding: 12px 12px 12px 4%;
 }
 
