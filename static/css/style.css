@@ -3767,6 +3767,14 @@ input[type=number]:focus {
     background-color: #fff;
 }
 
+.fqa_post_item {
+    margin-bottom: 60px;
+}
+
+.xoxo_fn_leftsidebar .fqa_post_item .fp_heading {
+    background-color: var(--xoxo-mc1);
+}
+
 .featured_post_item:after {
     content: "";
     position: absolute;
