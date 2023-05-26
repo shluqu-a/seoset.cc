@@ -542,7 +542,7 @@
     font-size: 18px;
     font-weight: 900;
     letter-spacing: .25px;
-    text-transform: uppercase;
+    text-transform: none;
     font-family: var(--hff);
     overflow: hidden;
     -o-text-overflow: ellipsis;
