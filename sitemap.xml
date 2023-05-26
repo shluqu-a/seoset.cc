@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- generated-on="2022-03-28 11:34:52" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://seoset.cc</loc>
 <lastmod>2023-05-22T23:24:23+08:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1.0</priority>
+</url>
+<url>
+<loc>https://seoset.cc/what-is-long-tail-keywords.html</loc>
+<lastmod>2023-05-26T21:13:54+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://seoset.cc/what-is-google-seo.html</loc>
+<lastmod>2023-05-26T19:15:33+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://seoset.cc/google-seo-basics.html</loc>
+<lastmod>2023-05-26T18:14:23+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
 <loc>https://seoset.cc/google-website.html</loc>
