@@ -8,65 +8,69 @@
 
 
 <url>
-  <loc>https://seoset.cc/</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://seoset.cc</loc>
+<lastmod>2023-05-22T23:24:23+08:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://seoset.cc/index.html</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://seoset.cc/what-is-long-tail-keywords.html</loc>
+<lastmod>2023-05-26T21:13:54+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://seoset.cc/googleseo-post.html</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://seoset.cc/what-is-google-seo.html</loc>
+<lastmod>2023-05-26T19:15:33+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://seoset.cc/google-website.html</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://seoset.cc/google-seo-basics.html</loc>
+<lastmod>2023-05-26T18:14:23+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://seoset.cc/quote-post.html</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://seoset.cc/google-website.html</loc>
+<lastmod>2023-05-25T14:11:14+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://seoset.cc/create-high-quality-content.html</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://seoset.cc/structured-data-markup.html</loc>
+<lastmod>2023-05-24T15:56:24+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://seoset.cc/structured-data-markup.html</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://seoset.cc/create-high-quality-content.html</loc>
+<lastmod>2023-05-24T09:19:44+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://seoset.cc/keywords-post.html</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://seoset.cc/googleseo-post.html</loc>
+<lastmod>2023-05-23T15:19:04+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://seoset.cc/google-seo-basics.html</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://seoset.cc/quote-post.html</loc>
+<lastmod>2023-05-22T14:29:34+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://seoset.cc/what-is-google-seo.html</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://seoset.cc/keywords-post.html</loc>
+<lastmod>2023-05-22T08:23:46+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://seoset.cc/what-is-long-tail-keywords.html</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://seoset.cc/factor-post.html</loc>
+<lastmod>2023-05-21T18:23:26+08:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
 </url>
-<url>
-  <loc>https://seoset.cc/factor-post.html</loc>
-  <lastmod>2023-05-26T16:13:34+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
 </urlset>
