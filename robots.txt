@@ -1,2 +1,3 @@
 User-agent: *
+Disallow: 谷歌seo优化合同.pdf
 Sitemap: https://seoset.cc/sitemap.xml
