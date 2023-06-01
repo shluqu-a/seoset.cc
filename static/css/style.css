@@ -7040,31 +7040,6 @@ body.elementor-editor-active .frenify-cursor {
     transition: transform 0.08s ease-out, opacity 1s ease, -webkit-transform 0.08s ease-out;
 }
 
-.cursor-outer .fn-cursor {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin: -15px 0 0 -15px;
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    border: 2px solid rgba(241, 99, 99, 0.7);
-}
-
-.cursor-inner .fn-cursor {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin: -3px 0 0 -3px;
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background-color: rgba(241, 99, 99, 0.7);
-    -webkit-transition: all 0.5s ease-in-out;
-    -o-transition: all 0.5s ease-in-out;
-    transition: all 0.5s ease-in-out;
-}
-
 .cursor-outer.cursor-slider,
 .cursor-outer.cursor-hover {
     opacity: 0;
