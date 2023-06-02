@@ -512,7 +512,7 @@ body blockquote {
     margin: 10px 0px 23px 0px;
     clear: both;
     max-width: 100%;
-    background-color: transparent;
+    background-color: #fff5cf73;
     line-height: 1.7;
     color: #000000;
     -webkit-box-sizing: border-box;
@@ -523,6 +523,10 @@ body blockquote {
 
 body blockquote>*:last-child {
     margin-bottom: 0;
+}
+
+blockquote cite {
+    color: #ff3426;
 }
 
 .pingback a {
@@ -546,6 +550,26 @@ dd a,
 dt a,
 blockquote a {
     color: #000;
+}
+
+.content_correct {
+    color: red;
+    font-size: 2rem;
+    line-height: 1;
+}
+
+.content_correct:before {
+    content: "\2713";
+}
+
+.content_error {
+    color: green;
+    font-size: 2rem;
+    line-height: 1;
+}
+
+.content_error:before {
+    content: "\2717";
 }
 
 table a {
