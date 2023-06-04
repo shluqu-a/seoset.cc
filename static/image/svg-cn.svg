@@ -1,0 +1,16 @@
+<svg width="900" height="1100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m0,0l900,0l0,600l-900,0l0,-600z" fill="#EE1C25"/>
+  <g id="a">
+   <path id="svg_2" fill="#fff" d="m449.964,299.913c-105.263,-44.486 -58.602,-181.581 42.07,-174.69c-20.366,10.467 -23.318,29.997 -11.687,48.09c13.024,20.256 -1.2,52.848 -18.806,60.767c-28.935,13.025 -34.728,47.75 -11.577,65.833z"/>
+   <path id="svg_3" fill="#EE1C25" d="m444.272,200.92l-5.92,9.294l-2.144,-10.815l-10.679,-2.759l9.625,-5.39l-0.671,-10.999l8.085,7.49l10.256,-4.043l-4.61,10.01l7.001,8.505l-10.943,-1.293zm6.288,97.839c-12.731,-6.534 -22.996,-20.155 -27.468,-36.431c-5.115,-18.67 -2.173,-38.743 8.083,-55.038l-2.208,-1.394c-10.64,16.929 -13.693,37.743 -8.386,57.12c4.728,17.221 15.214,31.097 28.787,38.064l1.192,-2.321z"/>
+  </g>
+  <use id="svg_4" transform="rotate(72 450 300)" xlink:href="#a"/>
+  <use id="svg_5" transform="rotate(144 450 300)" xlink:href="#a"/>
+  <use id="svg_6" transform="rotate(216 450 300)" xlink:href="#a"/>
+  <use id="svg_7" transform="rotate(288 450 300)" xlink:href="#a"/>
+  <text stroke="#000" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Inter'" font-size="250" id="svg_8" y="979.41718" x="26.46901" stroke-width="0" fill="#ffffff">繁     体</text>
+ </g>
+</svg>
