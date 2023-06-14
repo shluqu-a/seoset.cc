@@ -1,83 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://seoset.cc</loc>
-<lastmod>2023-05-22</lastmod>
+  <loc>https://seoset.cc/</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://seoset.cc/google-seo-expert.html</loc>
-<lastmod>2023-06-11</lastmod>
+  <loc>https://seoset.cc/quick-home.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/what-is-google-ads.html</loc>
-<lastmod>2023-06-04</lastmod>
+  <loc>https://seoset.cc/google-quick-queue.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/external-link.html</loc>
-<lastmod>2023-06-03</lastmod>
+  <loc>https://seoset.cc/googleseo-post.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/google-seo-included.html</loc>
-<lastmod>2023-06-03</lastmod>
+  <loc>https://seoset.cc/google-seo-expert.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/google-seo-title.html</loc>
-<lastmod>2023-06-03</lastmod>
+  <loc>https://seoset.cc/google-website.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/google-quick-queue.html</loc>
-<lastmod>2023-06-03</lastmod>
+  <loc>https://seoset.cc/quote-post.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/quick-home.html</loc>
-<lastmod>2023-05-31</lastmod>
+  <loc>https://seoset.cc/create-high-quality-content.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/google-ads-post.html</loc>
-<lastmod>2023-05-29</lastmod>
+  <loc>https://seoset.cc/structured-data-markup.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/what-is-seo-optimization-tool.html</loc>
-<lastmod>2023-05-28</lastmod>
+  <loc>https://seoset.cc/keywords-post.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/what-is-long-tail-keywords.html</loc>
-<lastmod>2023-05-26</lastmod>
+  <loc>https://seoset.cc/google-seo-title.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/what-is-google-seo.html</loc>
-<lastmod>2023-05-26</lastmod>
+  <loc>https://seoset.cc/google-seo-included.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/google-seo-basics.html</loc>
-<lastmod>2023-05-26</lastmod>
+  <loc>https://seoset.cc/google-seo-basics.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/google-website.html</loc>
-<lastmod>2023-05-25</lastmod>
+  <loc>https://seoset.cc/what-is-google-seo.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/structured-data-markup.html</loc>
-<lastmod>2023-05-24</lastmod>
+  <loc>https://seoset.cc/what-is-long-tail-keywords.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/create-high-quality-content.html</loc>
-<lastmod>2023-05-24</lastmod>
+  <loc>https://seoset.cc/what-is-seo-optimization-tool.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/googleseo-post.html</loc>
-<lastmod>2023-05-23</lastmod>
+  <loc>https://seoset.cc/factor-post.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/quote-post.html</loc>
-<lastmod>2023-05-22</lastmod>
+  <loc>https://seoset.cc/google-ads-post.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/keywords-post.html</loc>
-<lastmod>2023-05-22</lastmod>
+  <loc>https://seoset.cc/external-link.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://seoset.cc/factor-post.html</loc>
-<lastmod>2023-05-21</lastmod>
+  <loc>https://seoset.cc/what-is-google-ads.html</loc>
+  <lastmod>2023-06-12T15:22:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 </urlset>
