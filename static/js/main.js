@@ -33,7 +33,7 @@ jQuery.fn.isInViewportByFrenify = function() {
     return [(elementBottom > viewportTop) && (elementTop < viewportBottom), percentage];
 };
 
-var div_child = '<div class="xoxo_fn_ccategories"> <ul> <li> <div class="category__item"> <span class="cat_title"> <span class="name">@Ads883</span> <span class="count">TG</span> </span> </div> </li><li> <div class="category__item"> <span class="cat_title"> <span class="name">上海市宝山区上大路628号1幢5层</span> <span class="count">地址</span> </span> </div> </li> </ul> </div>'
+var div_child = '<div class="xoxo_fn_ccategories"> <ul> <li> <div class="category__item"> <span class="cat_title"> <span class="name"><a href="https://t.me/Ads883" rel="nofollow noopener" target="_blank" >@Ads883</a></span> <span class="count">TG</span> </span> </div> </li><li> <div class="category__item"> <span class="cat_title"> <span class="name">上海市宝山区上大路628号1幢5层</span> <span class="count">地址</span> </span> </div> </li> </ul> </div>'
 var c = document.getElementById('div_1');
 c.innerHTML += div_child;
 
